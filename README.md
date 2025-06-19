@@ -1,6 +1,7 @@
 # VRChat-OSC-Video
 
 VRChat OSC Video is a simple method for sending VERY low resolution (16x14) live video to a VRChat avatar over OSC.
+
 ![App Screenshot](https://github.com/vFeez/VRChat-OSC-Video/blob/main/Demo.gif?raw=true)
 
 
