@@ -5,6 +5,7 @@ VRChat OSC Video is a simple method for sending a VERY low resolution (16x14) li
 ![App Screenshot](https://github.com/vFeez/VRChat-OSC-Video/blob/main/Demo.gif?raw=true)
 
 A simple public avatar is now available.
+
 `avtr_c8a3370f-461e-4ec4-8d4a-c5d70aa43163`
 
 ## How it to run it?
